@@ -35,49 +35,49 @@ In-Class Projects
    - **Class09_PotentialEnergySurface_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hAXyLoYKTLXgF32gUmItMcde6QEdGGru) - `student version`
 
 10. Class10_Zmatrix
-   - **Class10_Zmatrix_StudentCopyy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZDH_6DNnXSEW1bm1L1UUkNmLT6ESFnl) - `student version`
+    - **Class10_Zmatrix_StudentCopyy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZDH_6DNnXSEW1bm1L1UUkNmLT6ESFnl) - `student version`
   
 11. Class11_ChemicalFileFormats
-   - **Class11_ChemicalFileFormats_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zW7CpW6XEECx9UgsnuiIZHf6svQULCQO) - `student version`
+    - **Class11_ChemicalFileFormats_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zW7CpW6XEECx9UgsnuiIZHf6svQULCQO) - `student version`
 
 12. Class12_ChemicalDatabase
-   - **Class12_ChemicalDatabase_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4UnxHqPPpLrpYwag5l-6-iYzKHDQclz) - `student version`
+    - **Class12_ChemicalDatabase_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4UnxHqPPpLrpYwag5l-6-iYzKHDQclz) - `student version`
 
 13. Class13_Pandas
-   - **Class13_Pandas_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JlDWPC8RjBscDib7dIpLiNMZ_dZKKPV7) - `student version`
+    - **Class13_Pandas_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JlDWPC8RjBscDib7dIpLiNMZ_dZKKPV7) - `student version`
 
 14. Class14_ChemicalCalculationsWithData
-   - **Class14_Cheminformatics_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-a9HTe0ny9dxRbx-y5qWJ3Xo0PAQ0LmG) - `student version`
+    - **Class14_Cheminformatics_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-a9HTe0ny9dxRbx-y5qWJ3Xo0PAQ0LmG) - `student version`
   
 15. Class15_Stereochemistry
-   - **Class15_Stereochemistry_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0IvzpZqVlIh4r5xKfZNx8sm7hDnIR8y) - `student version`
+    - **Class15_Stereochemistry_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0IvzpZqVlIh4r5xKfZNx8sm7hDnIR8y) - `student version`
 
 16. Class16_ML
-   - **Class16_MachineLearning_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bD2oO3n0eZ5jBwHfa-qF6SuziinKRy4G) - `student version`
+    - **Class16_MachineLearning_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bD2oO3n0eZ5jBwHfa-qF6SuziinKRy4G) - `student version`
   
 17. Class17_ChemicalEquilibrium
-   - **Class17_ChemicalEquilibrium_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NUw5E1xksQXJI9gPUEmjwtfNmkbOrIkW) - `student version`
+    - **Class17_ChemicalEquilibrium_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NUw5E1xksQXJI9gPUEmjwtfNmkbOrIkW) - `student version`
 
 18. Class18_TitrationCurve
-   - **Class18_Titration_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RXXMyVeh67AvsYplpRyRmJsOPDIUEgVe) - `student version`
+    - **Class18_Titration_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RXXMyVeh67AvsYplpRyRmJsOPDIUEgVe) - `student version`
 
 19. Class19_Kinetics-ODE
-   - **Class19_Kinetics_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1evq6Wh7NjIGLHnxiw3KE8D2-Y1Fs761H#scrollTo=80BEuNUtngjJ) - `student version`
+    - **Class19_Kinetics_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1evq6Wh7NjIGLHnxiw3KE8D2-Y1Fs761H#scrollTo=80BEuNUtngjJ) - `student version`
 
 20. Class20_ChemicalWaves-Oregonator
-   - **Class20_ChemicalWaves_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7IUq5mqB_VRga_U5rXlE54YgGvSTc68) - `student version`
+    - **Class20_ChemicalWaves_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7IUq5mqB_VRga_U5rXlE54YgGvSTc68) - `student version`
   
 21. Class21_Monte_Carlo_Methods
-   - **Class21_Monte_Carlo_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ngi2FjeITZi9p_plUhHZXJR_wei7CPyA#scrollTo=72jKIQiS0M8o) - `student version`
+    - **Class21_Monte_Carlo_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ngi2FjeITZi9p_plUhHZXJR_wei7CPyA#scrollTo=72jKIQiS0M8o) - `student version`
 
 22. Class22_GillespieAlgorithm
-   - **Class22_SimulateChemicalKinetics_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13-LcHaHCmgAB4dgap3suLNCIDPB1uO3F) - `student version`
+    - **Class22_SimulateChemicalKinetics_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13-LcHaHCmgAB4dgap3suLNCIDPB1uO3F) - `student version`
 
 23. Class23_IntroMD
-   - **Class23_IntroMD_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZAsbNMnln-LKV4Be1i64RbjVjajZLTrw#scrollTo=LyG1tB-DeE2K) - `student version`
+    - **Class23_IntroMD_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZAsbNMnln-LKV4Be1i64RbjVjajZLTrw#scrollTo=LyG1tB-DeE2K) - `student version`
 
 24. Class24_MDAnalysis
-   - **Class24_Analyzing_MD_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1itynq-iAsxunoKn-PL9lYGH6ANhR2YYa#scrollTo=LyG1tB-DeE2K) - `student version`
+    - **Class24_Analyzing_MD_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1itynq-iAsxunoKn-PL9lYGH6ANhR2YYa#scrollTo=LyG1tB-DeE2K) - `student version`
   
 25. Class25_CoarseGrainMethods
-   - **Class25_CoarseGrainedModeling_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198xlqH-ZVcN_VT3jaRIqlhBYVNN00QyH) - `student version`
+    - **Class25_CoarseGrainedModeling_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198xlqH-ZVcN_VT3jaRIqlhBYVNN00QyH) - `student version`
