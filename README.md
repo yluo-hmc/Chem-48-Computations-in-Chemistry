@@ -45,10 +45,11 @@ This is a course on computational chemistry for our first and second year studen
 
 ```12. Class12_ChemicalDatabase```
    - **Class12_ChemicalDatabase_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4UnxHqPPpLrpYwag5l-6-iYzKHDQclz) - `student version`
-   - - [**Class12 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class12)
+   - [**Class12 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class12)
 
 ```13. Class13_Pandas```
    - **Class13_Pandas_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JlDWPC8RjBscDib7dIpLiNMZ_dZKKPV7) - `student version`
+   - [**Class13 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class13)
 
 ```14. Class14_ChemicalCalculationsWithData```
  - **Class14_Cheminformatics_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-a9HTe0ny9dxRbx-y5qWJ3Xo0PAQ0LmG) - `student version`
