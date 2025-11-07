@@ -41,6 +41,7 @@ This is a course on computational chemistry for our first and second year studen
   
 ```11. Class11_ChemicalFileFormats```
    - **Class11_ChemicalFileFormats_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zW7CpW6XEECx9UgsnuiIZHf6svQULCQO) - `student version`
+   - - [**Class11 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class11)
 
 ```12. Class12_ChemicalDatabase```
    - **Class12_ChemicalDatabase_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4UnxHqPPpLrpYwag5l-6-iYzKHDQclz) - `student version`
