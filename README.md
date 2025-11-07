@@ -53,6 +53,7 @@ This is a course on computational chemistry for our first and second year studen
 
 ```14. Class14_ChemicalCalculationsWithData```
  - **Class14_Cheminformatics_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-a9HTe0ny9dxRbx-y5qWJ3Xo0PAQ0LmG) - `student version`
+ - [**Class14 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class14)
   
 ```15. Class15_Stereochemistry```
  - **Class15_Stereochemistry_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R0IvzpZqVlIh4r5xKfZNx8sm7hDnIR8y) - `student version`
