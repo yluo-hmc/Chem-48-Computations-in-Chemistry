@@ -33,6 +33,7 @@ This is a course on computational chemistry for our first and second year studen
 
 ```9. Class09_PotentialEnergySurface```
    - **Class09_PotentialEnergySurface_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hAXyLoYKTLXgF32gUmItMcde6QEdGGru) - `student version`
+   - [**Class09 Additonal Files**]()
 
 ```10. Class10_Zmatrix```
 - **Class10_Zmatrix_StudentCopyy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZDH_6DNnXSEW1bm1L1UUkNmLT6ESFnl) - `student version`
