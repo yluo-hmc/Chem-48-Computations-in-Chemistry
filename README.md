@@ -3,7 +3,6 @@
 This is a course on computational chemistry for our first and second year students, with codes written in **Google Colab**. This repository is part of an **NSF project** to be delivered by **Dec 2028**.
 
 ![alt text](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/blob/main/Photo/chemistry.png)
-
 **In-Class Projects**
 
 ```1. Class01_Hydrogen_s_Orbitals```
