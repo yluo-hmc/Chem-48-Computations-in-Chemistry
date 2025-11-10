@@ -90,6 +90,7 @@ This is a course on computational chemistry for our first and second year studen
 
 ```24. Class24_MDAnalysis```
   - **Class24_Analyzing_MD_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1itynq-iAsxunoKn-PL9lYGH6ANhR2YYa#scrollTo=LyG1tB-DeE2K) - `student version`
+  - [**Class24 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class24)
   
 ```25. Class25_CoarseGrainMethods```
  - **Class25_CoarseGrainedModeling_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198xlqH-ZVcN_VT3jaRIqlhBYVNN00QyH) - `student version`
