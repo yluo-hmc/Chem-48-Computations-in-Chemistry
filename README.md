@@ -94,3 +94,4 @@ This is a course on computational chemistry for our first and second year studen
   
 ```25. Class25_CoarseGrainMethods```
  - **Class25_CoarseGrainedModeling_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198xlqH-ZVcN_VT3jaRIqlhBYVNN00QyH) - `student version`
+ - **CHEM48_Class25_SP24_CoarseGrainedModeling_Student.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HBboRrHeGO0pZazqJm1j0gJhmBwR6jr_) - `student version`
