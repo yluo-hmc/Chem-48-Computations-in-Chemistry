@@ -81,7 +81,8 @@ This is a course on computational chemistry for our first and second year studen
 
 ```22. Class22_GillespieAlgorithm```
   - **Class22_SimulateChemicalKinetics_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13-LcHaHCmgAB4dgap3suLNCIDPB1uO3F) - `student version`
-
+ - [**Class22 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class22)
+   
 ```23. Class23_IntroMD```
   - **Class23_IntroMD_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZAsbNMnln-LKV4Be1i64RbjVjajZLTrw#scrollTo=LyG1tB-DeE2K) - `student version`
 
