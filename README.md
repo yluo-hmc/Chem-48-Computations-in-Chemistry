@@ -64,6 +64,7 @@ This is a course on computational chemistry for our first and second year studen
   
 ```17. Class17_ChemicalEquilibrium```
  - **Class17_ChemicalEquilibrium_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NUw5E1xksQXJI9gPUEmjwtfNmkbOrIkW) - `student version`
+ - [**Class17 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class17)
 
 ```18. Class18_TitrationCurve```
  - **Class18_Titration_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RXXMyVeh67AvsYplpRyRmJsOPDIUEgVe) - `student version`
@@ -73,6 +74,7 @@ This is a course on computational chemistry for our first and second year studen
 
 ```20. Class20_ChemicalWaves-Oregonator```
    - **Class20_ChemicalWaves_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7IUq5mqB_VRga_U5rXlE54YgGvSTc68) - `student version`
+   - **Class20_ChemicalWaves_codeWithOriginalEq(for reference)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oWJTkJ-n9MDW8q1HE7B4ulsN-5gfmhb1)
   
 ```21. Class21_Monte_Carlo_Methods```
   - **Class21_Monte_Carlo_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ngi2FjeITZi9p_plUhHZXJR_wei7CPyA#scrollTo=72jKIQiS0M8o) - `student version`
