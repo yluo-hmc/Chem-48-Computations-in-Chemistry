@@ -86,6 +86,7 @@ This is a course on computational chemistry for our first and second year studen
    
 ```23. Class23_IntroMD```
   - **Class23_IntroMD_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZAsbNMnln-LKV4Be1i64RbjVjajZLTrw#scrollTo=LyG1tB-DeE2K) - `student version`
+  - [**Class23 Additional Files**](https://github.com/yluo-hmc/Chem-48-Computations-in-Chemistry/tree/main/Class23)
 
 ```24. Class24_MDAnalysis```
   - **Class24_Analyzing_MD_Simulation_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1itynq-iAsxunoKn-PL9lYGH6ANhR2YYa#scrollTo=LyG1tB-DeE2K) - `student version`
