@@ -60,6 +60,7 @@ This is a course on computational chemistry for our first and second year studen
 
 ```16. Class16_ML```
  - **Class16_MachineLearning_with_RDkit_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bD2oO3n0eZ5jBwHfa-qF6SuziinKRy4G) - `student version`
+ - **Class16_Cheminformatics_All.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Oz7kYWtJT_sgp-Te4I5geZ6ojSbFtd6t)
   
 ```17. Class17_ChemicalEquilibrium```
  - **Class17_ChemicalEquilibrium_StudentCopy.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NUw5E1xksQXJI9gPUEmjwtfNmkbOrIkW) - `student version`
